@@ -7,3 +7,4 @@
 - 21 July, 2024
 - 28 July, 2024
 - 4 August, 2024
+- 24 September, 2024
